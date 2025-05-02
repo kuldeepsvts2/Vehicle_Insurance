@@ -20,6 +20,9 @@
 12. Push your data to mongoDB database from your python notebook.
 13. Go to mongoDB Atlas >> Database >> browse collection >> see your data in key value format
 
+mongodb+srv://atlas-sample-dataset-load-67fe6e18c322c94e013edb9e:<db_password>@cluster0.pkfsi0s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+kuldeep3
+kuldeep123
 -------------------------------------- logging, exception and notebooks --------------------------------------
 14. Write the logger file and test it on demo.py
 15. Write the exception file and test it on demo.py
@@ -141,3 +144,18 @@
         > type: Custom TCP > Port range: 5080 > 0.0.0.0/0 > Save rules
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training route
+
+
+
+
+
+mongodb://kuldeepsvts:Charchita123@ac-g5a51ks-shard-00-00.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-01.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-02.pkfsi0s.mongodb.net:27017/?replicaSet=atlas-11yyj5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+mongodb://kuldeepsvts:Charchita123@ac-g5a51ks-shard-00-00.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-01.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-02.pkfsi0s.mongodb.net:27017/?replicaSet=atlas-11yyj5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+
+
+
+AKIAVHGE47CLV4GTCX7D
+
+zRXxOgFTerAVGqxrLK5i54ozgGjnLYUxaZ6bqwa9
+$env: AWS_ACCESS_KEY_ID = "AKIAVHGE47CLV4GTCX7D"
+$env: AWS_SECRET_ACCESS_KEY = "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"
