@@ -148,14 +148,3 @@ kuldeep123
 
 
 
-
-mongodb://kuldeepsvts:Charchita123@ac-g5a51ks-shard-00-00.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-01.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-02.pkfsi0s.mongodb.net:27017/?replicaSet=atlas-11yyj5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
-mongodb://kuldeepsvts:Charchita123@ac-g5a51ks-shard-00-00.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-01.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-02.pkfsi0s.mongodb.net:27017/?replicaSet=atlas-11yyj5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
-
-
-
-AKIAVHGE47CLV4GTCX7D
-
-zRXxOgFTerAVGqxrLK5i54ozgGjnLYUxaZ6bqwa9
-$env: AWS_ACCESS_KEY_ID = "AKIAVHGE47CLV4GTCX7D"
-$env: AWS_SECRET_ACCESS_KEY = "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"
