@@ -1,8 +1,0 @@
-kuldeep2
-yj0mlsFxmcYjuVTf
-
-set: $env:MONGODB_URL = "mongodb://kuldeep2:yj0mlsFxmcYjuVTf@ac-g5a51ks-shard-00-00.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-01.pkfsi0s.mongodb.net:27017,ac-g5a51ks-shard-00-02.pkfsi0s.mongodb.net:27017/?replicaSet=atlas-11yyj5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0"
-check: echo $env:MONGODB_URL
-
-$env:MONGODB_URL = "mongodb+srv://kuldeep2:yj0mlsFxmcYjuVTf"
-    check: echo $env:MONGODB_URL
