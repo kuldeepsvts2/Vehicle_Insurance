@@ -25,7 +25,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+workflow.txt
+artifact/
+logs/
+pass.txt
+set_env.ps1
+workflow
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
