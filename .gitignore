@@ -50,9 +50,10 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-artifact
+artifact/
 workflow.txt
 pass.txt
+set_env.ps1
 
 # Translations
 *.mo
